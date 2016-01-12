@@ -70,3 +70,6 @@ Felhasználó
         + Itt meg kell adni a tennivaló leírását, helyszínét, határidejét, illetve hogy melyik felhasználó adja hozzá. A submit gombbal mentjük.
       + Tennivalók törlése és szerkesztése a sorban megfelelő gombra kattintva végezhető el.
 + Először érdemes egy felhasználót létrehozni, hogy lehessen hozzá tennivalót kapcsolni.
+
+##Tesztelés
+A különböző funkciók manuálisan lettek tesztelve, sikeres eredménnyel.
