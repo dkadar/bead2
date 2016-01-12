@@ -20,7 +20,7 @@ Felhasználó
 1. Architektúra terv
   +  Oldaltérkép
     + Főoldal
-      +Leírás
+      + Leírás
       + Tennivalók Lista
         + Új tennivaló hozzáadása
 
