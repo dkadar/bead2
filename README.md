@@ -6,7 +6,7 @@
  + Tennivalók felvételének és listázásának szimulálása.
 
 ####Funkcionális elvárások:
-+ Legyen egy felhasználó és egy tennivalók model, köztünk 1..N kapcsolattal. Egy felhasználóhoz tartozhat több tantárgy.
++ Legyen egy felhasználó és egy tennivalók model, köztünk 1..N kapcsolattal. Egy felhasználóhoz tartozhat több tennivaló.
 + A tennivalókat meg lehet tekinteni, leírásukat szerkeszteni és törölni
 
 ####Szerepkörök:
